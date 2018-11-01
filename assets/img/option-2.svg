@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 98.035 98.035">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #18d84b;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        filter: url(#Ellipse_7);
+      }
+    </style>
+    <filter id="Ellipse_7" x="0" y="0" width="98.035" height="98.035" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#18d84b" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="LOCK_ICON" data-name="LOCK ICON" transform="translate(-138 -616)">
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, 138, 616)">
+      <circle id="Ellipse_7-2" data-name="Ellipse 7" class="cls-1" cx="34.018" cy="34.018" r="34.018" transform="translate(15 10)"/>
+    </g>
+    <path id="Path_569" data-name="Path 569" class="cls-2" d="M33.866,8.81l.033-5.08-4.915,0L16.048,16.672A8.832,8.832,0,1,0,21.668,24.9a8.1,8.1,0,0,0-.575-3.133l2.3-2.24h3.493l-.026-3.663,1.6-1.593,1.941-.021V10.706H33.9ZM11.926,28.344a2.64,2.64,0,1,1,2.64-2.64A2.64,2.64,0,0,1,11.926,28.344Z" transform="translate(167.995 641.269)"/>
+  </g>
+</svg>

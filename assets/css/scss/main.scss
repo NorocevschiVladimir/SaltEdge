@@ -1,0 +1,31 @@
+@import '_normalize';
+@import "fonts";
+
+.form-control:focus{
+  box-shadow: none;
+}
+body{
+  background-color: #fff;
+}
+
+*{
+  font-family: "Helvetica", sans-serif;
+  font-weight: 400;
+  color: #000;
+  &:focus{
+    outline: none !important;
+  }
+}
+a{
+  &:hover{
+    text-decoration: none;
+  }
+}
+.btn-primary.focus, .btn-primary:focus{
+  box-shadow: none;
+}
+ul{
+  li{
+    list-style-type: none;
+  }
+}

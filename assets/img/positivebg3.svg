@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 350 318">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #458fe5;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        opacity: 0.05;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_203" data-name="Rectangle 203" class="cls-1" width="350" height="318" rx="10"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_11" data-name="Mask Group 11" class="cls-2">
+    <g id="flaticon1538578704-svg" class="cls-3" transform="translate(138.246 54.591)">
+      <g id="Group_316" data-name="Group 316" transform="translate(159.936 177.054)">
+        <g id="Group_315" data-name="Group 315">
+          <path id="Path_1634" data-name="Path 1634" d="M409.151,378.821l-33.978-72.864a125.631,125.631,0,0,1-81.965,52.669l28.444,60.995a9.655,9.655,0,0,0,17.82-.776L354.05,378.8l3-1.4L397.1,391.975A9.664,9.664,0,0,0,409.151,378.821Z" transform="translate(-293.208 -305.957)"/>
+        </g>
+      </g>
+      <g id="Group_318" data-name="Group 318" transform="translate(32.206)">
+        <g id="Group_317" data-name="Group 317" transform="translate(0)">
+          <path id="Path_1635" data-name="Path 1635" d="M178.684,0a106.2,106.2,0,1,0,106.2,106.2A106.321,106.321,0,0,0,178.684,0Zm51.673,98.4-18.831,18.357,4.45,25.928a9.665,9.665,0,0,1-14.011,10.176l-23.281-12.238L155.4,152.856a9.664,9.664,0,0,1-14.011-10.176l4.45-25.928L127.011,98.4a9.662,9.662,0,0,1,5.35-16.467l26.028-3.781L170.03,54.564a9.657,9.657,0,0,1,17.31,0l11.641,23.583,26.028,3.781A9.663,9.663,0,0,1,230.357,98.4Z" transform="translate(-72.485)"/>
+        </g>
+      </g>
+      <g id="Group_320" data-name="Group 320" transform="translate(0 177.054)">
+        <g id="Group_319" data-name="Group 319">
+          <path id="Path_1636" data-name="Path 1636" d="M51.74,305.957,17.762,378.821a9.665,9.665,0,0,0,12.049,13.152l40.048-14.579,3,1.4,14.579,40.048a9.655,9.655,0,0,0,17.82.776l28.444-60.994A125.628,125.628,0,0,1,51.74,305.957Z" transform="translate(-16.831 -305.957)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
